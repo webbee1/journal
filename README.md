@@ -1,2 +1,3 @@
 # Home Work
-cat Felix and his journal
+course "English for developers", july2016
+cat Felix and his journal https://webbee1.github.io/journal/
